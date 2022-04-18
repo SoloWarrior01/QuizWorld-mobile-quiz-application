@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alfa_slab_one</item>
+        <item>@font/atomic_age</item>
+        <item>@font/baloo_thambi</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/diplomata_sc</item>
+        <item>@font/geostar_fill</item>
+        <item>@font/ruslan_display</item>
+        <item>@font/stalinist_one</item>
+        <item>@font/warnes</item>
+    </array>
+</resources>

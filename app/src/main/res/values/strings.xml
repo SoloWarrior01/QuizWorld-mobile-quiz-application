@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">  QuizWorld</string>
+    <string name="result_txt">Results</string>
+    <string name="quiz_txt">  Machine Learning Quiz</string>
+    <string name="quiz_world"><u><b>QUIZ WORLD</b></u></string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="image_icon">Image_icon</string>
+    <string name="your_score_is">YOUR SCORE IS -</string>
+    <string name="button_result">Retake Quiz</string>
+    <string name="Heading_questions">Questions</string>
+    <string name="True_button">TRUE</string>
+    <string name="False_button">FALSE</string>
+    <string name="question_1"><b> Question 1 </b></string>
+    <string name="question_2"><b> Question 2 </b></string>
+    <string name="question_3"><b> Question 3 </b></string>
+    <string name="question_4"><b> Question 4 </b></string>
+    <string name="question_5"><b> Question 5 </b></string>
+    <string name="Question_ml_1">Selecting the decision tree split (at each node as you move down the tree) that maximizes information gain will guarantee an optimal decision tree.</string>
+    <string name="Question_ml_2">Reducing the number of leaves in a decision tree will increase the Bias and decrease the Variance</string>
+    <string name="Question_ml_3">Increase the number of training examples in logistic regression will eventually decrease the Bias and increase the Variance</string>
+    <string name="Question_ml_4">A classifier that attains 100% accuracy on the training set and 70% accuracy on test set is better than a classifier that attains 70% accuracy on the training set and 75% accuracy on test set.</string>
+    <string name="Question_ml_5">In a machine learning algorithm, if the number of parameters grow with the amount of training data, then the model is non-parametric.</string>
+    <string name="Question_nn_1">RNN (Recurrent Neural Network) used for machine translation as it can be trained as a supervised learning problem.</string>
+    <string name="Question_nn_2">Increasing the size of a neural network generally does not hurt an algorithm\'s performance, and it may help significantly.</string>
+    <string name="Question_nn_3">Decreasing the training set size generally does not hurt an algorithm\'s performance. </string>
+    <string name="Question_nn_4">A perceptron is an auto-associative neural network that contains feedback.</string>
+    <string name="Question_nn_5">Neural networks mimic the way human brain works. </string>
+    <string name="Question_py_1">In a mixed-type expression involving ints and floats, Python will convert floats to ints. </string>
+    <string name="Question_py_2">None is a Python type whose value indicates that no value exists. </string>
+    <string name="Question_py_3">Dictionary values must be immutable data types.</string>
+    <string name="Question_py_4">Python determines the beginning and end of a statement based on whitespace.</string>
+    <string name="Question_py_5">A full list of Python keywords can be obtained from Python itself, using the Python keyword module.</string>
+
+    <string name="button_view_results">View Results</string>
+    <string name="background_image">background image</string>
+</resources>
