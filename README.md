@@ -7,7 +7,4 @@ This is a mobile application. It is for quiz practice. It has quizzes on various
 ```
 
 ### Screenshots
-<img src="images/homepage.jpg" height="400">
-<img src="images/choose.jpg" height="400">
-<img src="images/ques.jpg" height="400">
-<img src="images/results.jpg" height="400">
+<img src="images/homepage.jpg" height="400"><img src="images/choose.jpg" height="400"><img src="images/ques.jpg" height="400"><img src="images/results.jpg" height="400">
